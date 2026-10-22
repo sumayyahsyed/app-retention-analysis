@@ -1,0 +1,5 @@
+redesign_period,platform,users,pct_created_account,verify_rate_of_created,link_rate_of_verified,overall_activation_pct
+pre_redesign,Android,12309,86.2,78.6,81.1,52.4
+pre_redesign,iOS,15061,86.1,81.9,81.1,54.5
+post_redesign,Android,7547,86.6,54.2,80.7,36.1
+post_redesign,iOS,9257,85.9,74.1,81.2,49.1

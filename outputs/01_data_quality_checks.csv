@@ -1,0 +1,8 @@
+check_name,value
+total users,44347
+total event rows,724048
+duplicate event rows (same event_id appears 2+ times),2885
+internal test accounts,40
+users with missing platform,133
+events from users not in users table,0
+events dated before user signup,0

@@ -1,0 +1,14 @@
+segment_type,segment_value,activated_users,d1_pct,d7_pct,d30_pct
+account_tier,private_client,2264,50.7,27.1,10.9
+account_tier,premier,6199,41.7,20.3,7.8
+account_tier,standard,12049,40.2,19.0,7.5
+acquisition_channel,advisor_referral,3666,51.0,26.7,10.1
+acquisition_channel,organic,7150,44.9,21.0,8.4
+acquisition_channel,search,4485,40.3,20.1,7.9
+acquisition_channel,paid_social,5211,32.3,14.8,6.0
+age_band,50-64,6115,42.5,20.3,8.2
+age_band,65+,3142,43.2,20.8,8.1
+age_band,35-49,6783,41.2,20.9,7.8
+age_band,18-34,4472,40.7,18.8,7.7
+platform,iOS,11845,43.5,21.0,8.3
+platform,Android,8604,39.5,19.2,7.5

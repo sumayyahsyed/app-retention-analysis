@@ -1,0 +1,5 @@
+feature,users_who_used,users_who_did_not,d30_pct_used,d30_pct_did_not,retention_lift_x
+message_advisor,3959,11569,17.6,7.0,2.5
+view_statement,8792,6736,12.0,6.7,1.79
+transfer_funds,7664,7864,12.3,7.2,1.72
+view_research,7730,7798,12.0,7.4,1.62

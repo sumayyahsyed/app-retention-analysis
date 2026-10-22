@@ -1,0 +1,3 @@
+platform,metric,control_n,treatment_n,control_rate_pct,treatment_rate_pct,abs_lift_pts,rel_lift_pct,ci95_low_pts,ci95_high_pts,z,p_value,significant
+iOS,completed_onboarding,886,896,48.53,49.33,0.8,1.6,-3.84,5.44,0.34,0.7363,False
+Android,completed_onboarding,679,703,36.97,45.09,8.13,22.0,2.96,13.29,3.07,0.0021,True
