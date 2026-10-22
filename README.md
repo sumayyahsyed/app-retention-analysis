@@ -1,4 +1,4 @@
-# WealthView: Diagnosing an App Decline (User Retention & Product Analytics)
+# WealthView: Diagnosing an App Decline
 
 **The question:** WealthView, a (fictional) wealth-management mobile app, saw monthly active users fall **18%** between March and July 2026. Leadership wants to know why, and what the product team should fix first.
 
